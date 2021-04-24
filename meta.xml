@@ -1,0 +1,33 @@
+<meta> 
+<info author="AriosJentu" name="WebBrowser" version="0" type="script"/>
+
+    <!-- Libraries -->
+    <script src="winsys.lua" type="client"/>
+    <script src="customs.lua" type="client"/>
+    <script src="client.lua" type="client"/>
+    <script src="settings.lua" type="client"/>
+    <script src="home.lua" type="client"/>
+    <script src="server.lua" type="server"/>
+
+    <file src="imgs/pane.png"/>
+    <file src="imgs/but.png"/>
+    <file src="imgs/butback.png"/>
+    <file src="imgs/go.png"/>
+    <file src="imgs/prev.png"/>
+    <file src="imgs/find.png"/>
+    <file src="imgs/setts.png"/>
+    <file src="imgs/refresh.png"/>
+    <file src="imgs/stop.png"/>
+    <file src="imgs/add.png"/>
+    <file src="imgs/logo.png"/>
+    <file src="imgs/round.png"/>
+
+    <file src="fonts/OSI.ttf"/>
+    <file src="fonts/OSL.ttf"/>
+    <file src="fonts/OSLI.ttf"/>
+    <file src="fonts/OSR.ttf"/>
+    <file src="fonts/OSB.ttf"/>
+
+
+    <oop>true</oop>
+</meta>
